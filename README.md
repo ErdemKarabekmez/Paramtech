@@ -1,4 +1,4 @@
-# PROJECT STRUCTURE
+# PROJE YAPISI
 - Bu proje "**_Java_**" programlama dili kullanılarak oluşturulmuştur.
 - UI automation tool olarak "**_Selenium_**" tercih edilmiştir.
 - Build management tool olarak "**_Maven_**" tercih edilmiştir.

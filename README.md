@@ -11,6 +11,4 @@
 - "**_Singleton Driver_**" yapısı tercih edilmiştir. 
 - "**_Test raporlarına_**" target/cucumber-report.html dosyasında ulaşabilirsiniz.
 - Proje sayfalarında sayfaları ve metodları açıklayan bazı notlar bulunmaktadır.
-- Herhangi bir sorunuz olduğunda lütfen iletmekten çekinmeyin.
-
-#### Bu proje Ayşe KARABEKMEZ tarafından oluşturulmuştur ---> karabekmezayse@gmail.com
+- API testlerinde POJO class yapısı, JsonPath ve JSONObject kütüphanelerinden yararlanılmıştır.
